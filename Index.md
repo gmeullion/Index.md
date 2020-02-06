@@ -28,7 +28,7 @@
 	<dd> A tropical storm with winds greater than 74mph</dd>
 </dl>
 <h3>Links</h3>
-	<p>Sebastian the Ibis is the mascot for the <a href= "http://www.miami.edu">http://www.miami.edu .</a><p>
+	<p>Sebastian the Ibis is the mascot for the <a href= "http://www.miami.edu">http://www.miami.edu.</a><p>
 More Tags
 		
 Return to Top
