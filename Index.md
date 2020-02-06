@@ -27,8 +27,10 @@ EXERCISE 1
 	<dd> A tropical storm with winds greater than 74mph</dd>
 </dl>
 <h3>Links</h3>
-	<p>Sebastian the Ibis is the mascot for the<a href= “http://www.miami.edu”> University of Miami</a><P>
+	<p>Sebastian the Ibis is the mascot for the <a href= "http://www.miami.edu">http://www.miami.edu"></a><P>
 More Tags
+		
 Return to Top
+
 </body>
 </html>
