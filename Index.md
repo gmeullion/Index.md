@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charaset = “utf-8”>
-	<title>Flynn</title>
+	<!--<title>Flynn</title>-->
 </head>
 	
 <body>
@@ -31,7 +31,7 @@
 	<p>Sebastian the Ibis is the mascot for the <a href= "http://www.miami.edu">http://www.miami.edu</a><p>
 More Tags
 		
-<a href= "index.md">Index.md</a> Return to Top
+Return to Top
 
 </body>
 </html>
